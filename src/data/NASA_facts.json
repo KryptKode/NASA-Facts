@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "title": "NASA Acronym",
+        "fact": "The acronym 'NASA' stands for National Aeronautics and Space Administration.",
+        "clicked": false 
+        },
+    {
+        "id": 1,
+        "title": "Distant communication",
+        "fact": "To communicate with distant spacecraft, NASA's Deep Space Network uses antenna with a diameter of up to 70 meters (230 feet). That is almost as big as a football field.",
+        "clicked": false 
+        },
+    {
+        "id": 2,
+        "title": "Big Jupiter",
+        "fact": "It's a small world. More than 1,000 Earths would fit into Jupiter's vast sphere.",
+        "clicked": false 
+        },
+    {
+        "id": 3,
+        "title": "Saturn's inclination",
+        "fact": "Because Saturn is tilted, when its rings are facing Earth edge-on they 'disappear' from our view. We now know this happens every 14 years or so, but poor Galileo questioned his sanity when they 'disappeared' and then 'reappeared' a few years later.It's a small world. More than 1,000 Earths would fit into Jupiter's vast sphere.",
+        "clicked": false 
+        },
+    {
+        "id": 4,
+        "title": "Apollo 10",
+        "fact": "Apollo 10's command module was called 'Charlie Brown' and the lunar module was called 'Snoopy.'",
+        "clicked": false 
+        },
+    {
+        "id": 5,
+        "title": "Pilot qualifications",
+        "fact": "Did you know that to apply to be an astronaut a pilot must have completed 1000 hours of flying time in a jet aircraft?",
+        "clicked": false 
+        },
+     {
+        "id": 6,
+        "title": "Apollo 11 food",
+        "fact": "During Apollo 11, the astronauts ate two meals. Meal A was bacon squares, peaches, sugar cookie cubes, coffee, and pineapple-grapefruit drink. Meal B included beef stew, cream of chicken soup, date fruitcake, grape punch, and orange drink.",
+        "clicked": false 
+        },
+    {
+        "id": 7,
+        "title": "First female commander",
+        "fact": "Eileen M. Collins was the first female commander of the space shuttle. She and her crew launched aboard Space Shuttle Columbia on the STS-93 mission in July 1999.",
+        "clicked": false 
+        },
+    {
+        "id": 8,
+        "title": "Equinox",
+        "fact": "Equinox literally means 'equal night.' On an equinox, the sun is above the equator, so both the northern and southern hemispheres of the Earth receive about the same amount of sunlight, and day and night are the same length.",
+        "clicked": false 
+        },
+    {
+        "id": 9,
+        "title": "Spyglass",
+        "fact": "Through his spyglass, in 1609 Galileo saw that there were spots on the Sun, imperfections on the Moon, and that the Milky Way was composed of millions of faint stars. His most stunning (and controversial!) discovery was of satellites orbiting Jupiter, dashing the concept that the Earth was the center of the Universe.",
+        "clicked": false 
+        },
+    {
+        "id": 10,
+        "title": "Dr. Goddard",
+        "fact": "On March 16, 1926, Dr. Robert H. Goddard successfully launched the first liquid fueled rocket. The launch took place at Auburn, Massachusetts, and is regarded by flight historians to be as significant as the Wright Brothers flight at Kitty Hawk.",
+        "clicked": false 
+        },
+    {
+        "id": 11,
+        "title": "Cirrus",
+        "fact": "In 1803, a man named Luke Howard used Latin words to categorize clouds. Cirrus, which means 'curl of hair,' is used to describe high, wispy clouds that look like locks of hair."
+    }
+]
