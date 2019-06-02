@@ -2,7 +2,7 @@
   "name": "css-modules",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/KryptKode/NASA-Facts",
+  "homepage": "http://kryptkode.github.io/NASA-Facts",
   "dependencies": {
     "classnames": "^2.2.6",
     "custom-react-scripts": "0.2.2",
