@@ -1,12 +1,14 @@
 import React from 'react';
 
-export default class GridItem extends React.Component {
-  render() {
+import styles from './GridItem.module.css';
+
+const GridItem = ({fact})=>{
     return (
-      <div>
-        <h1>GridItem</h1>
-      </div>
-    );
-  }
+        <div className={styles.card}>
+          <h2 className={styles.title}>{fact.title}</h2>
+          <article className={styles.fact}>{fact.fact}</article>
+        </div>
+      );
 }
 
+export default GridItem;
