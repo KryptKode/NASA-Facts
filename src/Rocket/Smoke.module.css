@@ -10,3 +10,9 @@
     height: auto;
     opacity: 0.5;
 }
+
+@media(max-width: 1365px){
+    .smoke{
+        visibility: hidden;
+    }
+}

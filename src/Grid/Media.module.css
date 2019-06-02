@@ -1,0 +1,15 @@
+@media(max-width: 1024px){
+    .grid{
+        column-gap: 10px;
+        column-count: 2;
+        padding: 175px 10px 10px 10px;
+    }
+}
+
+@media(max-width: 768px){
+    .grid{
+        column-gap: 10px;
+        column-count: 1;
+        padding: 175px 5px 10px 5px;
+    }
+}
