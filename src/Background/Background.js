@@ -1,11 +1,14 @@
 import React from 'react';
+import styles from './Background.module.css';
 
 export default class Background extends React.Component {
-  render() {
-    return (
-      <div>
-        <h1>Background</h1>
-      </div>
-    );
-  }
+    render() {
+        return (
+            <div>
+                <div className={styles.stars} />
+                <div className={styles.alpha} />
+                <div className={styles.nebula} />
+            </div>
+        );
+    }
 };

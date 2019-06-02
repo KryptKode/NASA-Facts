@@ -1,0 +1,35 @@
+.background{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.stars{
+    composes: background;
+    background: black url(/stars.png) repeat top center;
+    z-index: -3;
+}
+
+.alpha{
+    composes: background;
+    background: transparent url(/alpha.png) repeat top center;
+    z-index: -2;
+    animation: stargazing 500s linear infinite
+}
+
+.nebula{
+    composes: background;
+    opacity: 0.5;
+    background: transparent url(/nebula.png) repeat top center;
+    z-index: -1;
+}
+
+@keyframes stargazing{
+    from { background-position: 0,0}
+    to {background-position: -10000px, -5000px}
+}
