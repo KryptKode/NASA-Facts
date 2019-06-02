@@ -1,0 +1,12 @@
+.smoke{
+    position: relative;
+    bottom: 0px;
+    margin-top: -500px;
+    z-index: 99;
+}
+
+.video{
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+}
