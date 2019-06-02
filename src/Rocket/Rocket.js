@@ -6,7 +6,7 @@ export default class Rocket extends React.Component {
     return (
       <div>
         <img 
-        src='/shuttle.png'
+        src='shuttle.png'
         alt='shuttle'
         className={styles.img} />
       </div>

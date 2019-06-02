@@ -2,9 +2,11 @@
   "name": "css-modules",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://kryptkode.github.io/NASA-Facts",
   "dependencies": {
     "classnames": "^2.2.6",
     "custom-react-scripts": "0.2.2",
+    "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
@@ -13,6 +15,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   }
 }
